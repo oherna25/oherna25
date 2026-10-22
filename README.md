@@ -23,7 +23,7 @@
 
 <p align="center">Arbiter and DuoBrowser are in active development. Both repositories are private, so the links below go to the public app and the public support page.</p>
 
-<h3 align="center"><a href="https://tcg-decision-app.vercel.app">Arbiter</a></h3>
+<h3 align="center">Arbiter</h3>
 
 <p align="center">Explainable deck decisions for Yu-Gi-Oh! and Pokémon. Build or paste a list, then read a score that says why it landed there: opening-hand odds, role counts, gaps, and specific swaps.</p>
 
@@ -47,7 +47,7 @@
 
 <p align="center"><a name="browser"></a><img src="assets/section-browser.svg" alt="In the browser" width="100%"></p>
 
-<h3 align="center"><a href="https://oherna25.github.io/tokyo-1sqmi/">Tokyo, 1.00 sq mi</a></h3>
+<h3 align="center">Tokyo, 1.00 sq mi</h3>
 
 <p align="center">One square mile of downtown Tokyo, centered on Shimbashi, as an interactive 3D model in a single HTML file.</p>
 
@@ -61,7 +61,7 @@
 
 <p align="center"><img src="assets/tokyo.png" alt="The Tokyo 1.00 sq mi 3D model, with building filters and camera controls over the Shimbashi district." width="100%"></p>
 
-<h3 align="center"><a href="https://oherna25.github.io/tetris-retro/">Tetris Retro</a></h3>
+<h3 align="center">Tetris Retro</h3>
 
 <p align="center">Tetris in one HTML file. Film grain, scanlines, procedural chiptune, and neon CRT blocks. It uses a 7-bag randomizer, hold, a ghost piece, and stores a best score in the browser. Keyboard on a desktop, swipe on a phone.</p>
 
