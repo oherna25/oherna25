@@ -1,5 +1,5 @@
 <p align="center">
-  <sub><b>oherna25</b> &nbsp;&nbsp; <a href="#now">Work</a> &nbsp;·&nbsp; <a href="#browser">Play</a> &nbsp;·&nbsp; <a href="#about">About</a> &nbsp;·&nbsp; <a href="https://github.com/oherna25">GitHub</a></sub>
+  <sub><b>oherna25</b> &nbsp;&nbsp; <a href="#user-content-now">Work</a> &nbsp;·&nbsp; <a href="#user-content-browser">Play</a> &nbsp;·&nbsp; <a href="#user-content-about">About</a> &nbsp;·&nbsp; <a href="https://github.com/oherna25">GitHub</a></sub>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <p align="center"><sub>PYTHON &nbsp;·&nbsp; TYPESCRIPT &nbsp;·&nbsp; SWIFT &nbsp;·&nbsp; JAVASCRIPT &nbsp;·&nbsp; HTML &nbsp;·&nbsp; C++ &nbsp;·&nbsp; SQL</sub></p>
 
 <p align="center">
-  <a href="#now"><img src="assets/btn-see-work.svg" alt="See the work" height="44"></a>
+  <a href="#user-content-now"><img src="assets/btn-see-work.svg" alt="See the work" height="44"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/oherna25"><b>GitHub profile&nbsp;›</b></a>
 </p>
